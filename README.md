@@ -1,5 +1,5 @@
-# Power_BI
-Complete a statistical analysis of the dataset using both descriptive statistics 
-Student is able to demonstrate that they analyzed the dataset based on the hypotheses and issues they identified when creating their issue tree
-● Student understands how descriptive statistics can highlight abnormal variables and/or show unique trends within the data that is not possible by looking at the data through a
-purely numerical lense
+# Power_BI Dashboard for Capstone 1 project
+This is a download Power BI file that shows customer demographics and sales for toy models.
+
+Here is the PPT link for an executive audiance: https://1drv.ms/p/s!AnBXx_cg-yA7jChYNsfx7pMC-W1r?e=yNiGpy
+I cut the 10th slide because it was misleading even though the second slide is more detailed.
